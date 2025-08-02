@@ -1,0 +1,135 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "username": "rohitsharma",
+        "profile_img": "./src/assets/rohit21.jpeg"
+      },
+      "content": {
+        "img": "./src/assets/Rohit45.jpg",
+        "caption": "My sweet heart💖😘"
+      },
+      "interactions": {
+        "likes": 145,
+        "comments": [
+          {
+            "user": "alice_wonder",
+            "comment": "Wow! Looks amazing! 😍"
+          },
+          {
+            "user": "mark_92",
+            "comment": "Where is this place?"
+          }
+        ]
+      },
+      "timestamp": "2025-03-28T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "virat.kohli",
+        "profile_img": "./src/assets/virat3.jpeg"
+      },
+      "content": {
+        "img": "./src/assets/virat4.webp",
+        "caption": "Champions💙🔥"
+      },
+      "interactions": {
+        "likes": 200,
+        "comments": [
+          {
+            "user": "foodie_lover",
+            "comment": "Yum! Where did you get this?"
+          },
+          {
+            "user": "travel_buddy",
+            "comment": "Looks so good!"
+          }
+        ]
+      },
+      "timestamp": "2025-03-28T11:30:00Z"
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "shreyasiyer",
+        "profile_img": "./src/assets/iyer2.jpeg"
+      },
+      "content": {
+        "img": "./src/assets/iyer3.jpg",
+        "caption": "Another selfless captain💙"
+      },
+      "interactions": {
+        "likes": 120,
+        "comments": [
+          {
+            "user": "nature_lover",
+            "comment": "Breathtaking view! 🌲"
+          }
+        ]
+      },
+      "timestamp": "2025-03-28T12:45:00Z"
+    }
+  ],
+  "profile": {
+    "id": 101,
+    "username": "the_crazy__",
+    "profile_img": "./src/assets/alone.avif"
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "bae_gurl_",
+      "profile_img": "./src/assets/suggest1.jpeg"
+    },
+    {
+      "id": "102",
+      "username": "_the_luffy_",
+      "profile_img": "./src/assets/suggest2.jpg"
+    },
+    {
+      "id": "103",
+      "username": "the_naruto_",
+      "profile_img": "./src/assets/suggest3.jpeg"
+    },
+    {
+      "id": "104",
+      "username": "_mr_perfect_",
+      "profile_img": "./src/assets/suggest4.jpeg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "username": "rohitsharma",
+        "profile_img": "./src/assets/rohit21.jpeg"
+      },
+      "content": {
+        "image": "./src/assets/new5.jpg"
+      }
+    },
+    {
+      "id": "2",
+      "user": {
+        "username": "virat.kohli",
+        "profile_img": "./src/assets/virat3.jpeg"
+      },
+      "content": {
+        "image": "./src/assets/new5.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "user": {
+        "username": "shreyasiyer",
+        "profile_img": "./src/assets/iyer2.jpeg"
+      },
+      "content": {
+        "image": "./src/assets/new5.jpg"
+      }
+    }
+  ],
+  "followers": []
+}
